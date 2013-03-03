@@ -1,10 +1,5 @@
-
 package game1;
 
-/**
- *
- * @author rich
- */
 public class Game {
 
     /**
