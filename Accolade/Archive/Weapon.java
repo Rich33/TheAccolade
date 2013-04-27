@@ -1,5 +1,3 @@
-package game1;
-
 public class Weapon extends Item {
     
     private int baseDamage;
